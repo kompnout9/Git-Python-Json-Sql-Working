@@ -1,0 +1,4 @@
+req/
+__pycache__/
+data.json
+requirements.txt
